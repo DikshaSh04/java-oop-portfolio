@@ -1,4 +1,4 @@
-package oop.abstraction.abstractClasses;
+package oop.abstraction.abstractClasses.bankAccountSimulator;
 
  abstract class BankAccount {
     //fields

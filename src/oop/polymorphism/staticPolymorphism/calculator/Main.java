@@ -1,5 +1,4 @@
-package oop.polymorphism.staticPolymorphism;
-import oop.polymorphism.staticPolymorphism.*;
+package oop.polymorphism.staticPolymorphism.calculator;
 
 //This is an example of static polymorphism which uses method overloading.
 //Method overloading = same method name, different parameters.

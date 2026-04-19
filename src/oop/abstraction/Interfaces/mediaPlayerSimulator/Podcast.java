@@ -1,4 +1,4 @@
-package oop.abstraction.Interfaces;
+package oop.abstraction.Interfaces.mediaPlayerSimulator;
 
 public class Podcast implements Playable{
     //fields

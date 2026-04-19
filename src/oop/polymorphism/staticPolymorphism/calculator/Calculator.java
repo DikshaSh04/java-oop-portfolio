@@ -1,4 +1,4 @@
-package oop.polymorphism.staticPolymorphism;
+package oop.polymorphism.staticPolymorphism.calculator;
 
 public class Calculator {
 

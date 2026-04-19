@@ -1,4 +1,4 @@
-package oop.abstraction.Interfaces;
+package oop.abstraction.Interfaces.mediaPlayerSimulator;
 
 public interface Playable {
     void play();
@@ -6,4 +6,6 @@ public interface Playable {
     void stop();
     String getTitle();
     int getDuration();
+
+
 }

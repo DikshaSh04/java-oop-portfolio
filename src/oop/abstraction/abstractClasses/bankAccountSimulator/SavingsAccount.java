@@ -1,4 +1,4 @@
-package oop.abstraction.abstractClasses;
+package oop.abstraction.abstractClasses.bankAccountSimulator;
 
 public class SavingsAccount extends BankAccount {
 

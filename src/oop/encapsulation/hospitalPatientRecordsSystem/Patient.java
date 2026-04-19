@@ -1,4 +1,4 @@
-package oop.encapsulation;
+package oop.encapsulation.hospitalPatientRecordsSystem;
 
 public class Patient {
     //fields
