@@ -1,8 +1,6 @@
-package oop.inheritance.multiLevelInheritance;
+package oop.inheritance.multiLevelInheritance.species;
 
-import oop.inheritance.multiLevelInheritance.*;
-
- //this is an example of multilevel inheritance
+//this is an example of multilevel inheritance
  //sub-class 'Fish' is inherited from super class 'Animal'
 //'Animal' itself is a sub-class of the super class 'Species'
 

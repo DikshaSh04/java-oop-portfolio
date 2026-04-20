@@ -1,4 +1,4 @@
-package oop.inheritance.multiLevelInheritance;
+package oop.inheritance.multiLevelInheritance.species;
 
 
 public class Animal extends Species {
