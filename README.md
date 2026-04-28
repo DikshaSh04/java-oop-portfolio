@@ -187,4 +187,4 @@ Each module folder is self-contained and can be compiled and run independently.
 ## Author
 
 **Diksha Sharma**
-[LinkedIn](www.linkedin.com/in/diksha-sharma25) · [GitHub](https://github.com/DikshaSh04) · [Email](diksha250406@gmail.com)
+[LinkedIn](https://linkedin.com/in/diksha-sharma25) · [GitHub](https://github.com/DikshaSh04) · [Email](mailto:diksha250406@gmail.com)
